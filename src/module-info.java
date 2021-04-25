@@ -1,3 +1,0 @@
-module hiiiii {
-	requires hiiiii;
-}

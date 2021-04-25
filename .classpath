@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path=".classpath">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
@@ -18,5 +18,11 @@
 	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/jar_files/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/jar_files/kotlin-stdlib-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/jar_files/kotlin-stdlib-common-1.3.50.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/jar_files/okio-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/testng-6.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.konda/Downloads/commons-lang3-3.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
